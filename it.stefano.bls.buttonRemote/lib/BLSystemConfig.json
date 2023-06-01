@@ -1,0 +1,6 @@
+{
+	"buttonType"    : "gui",
+	"buttonAddress" : "localhost",
+	"buttonPort"    : "8084",
+	"buttonProtocol": "tcp"
+}
