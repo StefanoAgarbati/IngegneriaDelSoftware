@@ -1,0 +1,21 @@
+{
+	"buttonType":"gui",
+	"ledType":"gui",
+	"buttonActorName" : "button",
+	"buttonCtxName" : "buttonCtx",
+	"buttonCtxPort" : "8085",
+	"buttonCtxAddress" : "localhost",
+	"ledActorName" : "led",
+	"ledCtxName" : "ledCtx",
+	"ledCtxPort" : "8086",
+	"ledCtxAddress" : "localhost",
+	"controlActorName" : "controller",
+	"controlCtxName" : "controlCtx",
+	"controlCtxPort" : "8084",
+	"controlCtxAddress" : "localhost",
+	"buttonControlCtxName" : "buttonControlCtx",
+	"buttonControlCtxPort" : "8085",
+	"controlLedCtxName" : "controlLedCtx",
+	"controlLedCtxPort" : "8084"
+	
+}
