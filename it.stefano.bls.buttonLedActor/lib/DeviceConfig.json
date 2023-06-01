@@ -1,0 +1,6 @@
+{
+	"ledPin" : "10",
+	"buttonPin" : "12",
+	"ledOnColor" : "1010FF",
+	"ledOffColor" : "20EFAC"
+}
