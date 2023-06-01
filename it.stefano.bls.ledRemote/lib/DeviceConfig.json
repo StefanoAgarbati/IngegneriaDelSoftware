@@ -1,0 +1,12 @@
+{
+	"ledPin" : "10",
+	"buttonPin" : "12",
+	"ledOnColor" : "1010FF",
+	"ledOffColor" : "20EFAC",
+	"ledPort" : "8085",
+	"ledAddress" : "localhost",
+	"ledProtocol" : "tcp",
+	"buttonPort" : "8084",
+	"buttonProtocol" : "tcp"
+	
+}

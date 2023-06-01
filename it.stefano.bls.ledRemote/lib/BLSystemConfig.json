@@ -1,0 +1,5 @@
+{
+	"ledType"  : "gui",
+	"port"     : "8085",
+	"protocol" : "tcp"
+}
