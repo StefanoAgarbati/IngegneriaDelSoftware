@@ -1,0 +1,21 @@
+{
+	"contexts": [
+		{
+			"name" : "buttonCtx",
+			"port" : "8084",
+			"address" : ""
+		},
+		{
+			"name" : "controlLedCtx",
+			"port" : "8085",
+			"address" : "localhost"
+		}
+	],
+	"actors" : [
+		{
+			"name" : "button",
+			"context" : "buttonCtx",
+			"class" : "button.actor.ButtonActor"
+		}
+	]
+}
