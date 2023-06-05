@@ -1,4 +1,4 @@
 {
 	"ledType"    : "gui",
-	"buttonType" : "serial"
+	"buttonType" : "gui"
 }

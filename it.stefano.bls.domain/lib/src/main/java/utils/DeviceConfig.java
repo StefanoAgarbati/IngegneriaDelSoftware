@@ -70,19 +70,19 @@ public class DeviceConfig {
 		return ProtocolType.TCP;
 	}
 	
-	public static void main(String[] ags) {
-		String num = "0A09ff";
-		int intNum = Integer.parseInt(num, 16);
-		int esaNum = 0x1010FF;
-		Color aColor = new Color(esaNum);
-		System.out.println(intNum);
-		System.out.println(esaNum);
-		System.out.println(aColor.toString());
-		setConfiguration();
-		System.out.println("ledPin:" + ledPin);
-		System.out.println("buttonPin:" + buttonPin);
-		System.out.println("LedOnColor:"+ new Color(ledOnColor));
-		System.out.println("LedOffColor"+ new Color(ledOffColor));
-	}
+//	public static void main(String[] ags) {
+//		String num = "0A09ff";
+//		int intNum = Integer.parseInt(num, 16);
+//		int esaNum = 0x1010FF;
+//		Color aColor = new Color(esaNum);
+//		System.out.println(intNum);
+//		System.out.println(esaNum);
+//		System.out.println(aColor.toString());
+//		setConfiguration();
+//		System.out.println("ledPin:" + ledPin);
+//		System.out.println("buttonPin:" + buttonPin);
+//		System.out.println("LedOnColor:"+ new Color(ledOnColor));
+//		System.out.println("LedOffColor"+ new Color(ledOffColor));
+//	}
 	
 }
